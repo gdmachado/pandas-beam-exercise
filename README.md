@@ -1,4 +1,4 @@
-# Hartree Partners coding test - Gustavo Machado
+# Pandas & Beam exercise
 
 This contains two solutions: one implemented using Pandas and other using Apache Beam (Python SDK).
 
